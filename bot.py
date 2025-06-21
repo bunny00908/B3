@@ -88,7 +88,7 @@ def start_handler(msg):
 ⟡ ᴜꜱᴇ /b3 ᴛᴏ ᴄʜᴇᴄᴋ ꜱɪɴɢʟᴇ ᴄᴀʀᴅ
 ⟡ ꜰᴏʀ ᴍᴀꜱꜱ ᴄʜᴇᴄᴋ, ʀᴇᴘʟʏ ᴄᴄ ꜰɪʟᴇ ᴡɪᴛʜ /mb3
 
-ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Mod_By_Kamal""")
+ʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : <a href="https://t.me/approvedccm">𝐁𝐮𝐧𝐧𝐲</a>""")
 
 @bot.message_handler(commands=['auth'])
 def authorize_user(msg):
@@ -141,7 +141,7 @@ def b3_handler(msg):
 ⟡ ᴏɴʟʏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴍᴇᴍʙᴇʀꜱ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ
 
 ✧ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ꜰᴏʀ ᴀᴜᴛʜᴏʀɪᴢᴀᴛɪᴏɴ
-✧ ᴀᴅᴍɪɴ: @Mod_By_Kamal""")
+✧ ᴀᴅᴍɪɴ: <a href="https://t.me/approvedccm">𝐁𝐮𝐧𝐧𝐲</a>""")
 
     cc = None
 
@@ -205,7 +205,7 @@ def mb3_handler(msg):
 ⟡ ᴏɴʟʏ ᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴍᴇᴍʙᴇʀꜱ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ
 
 ✧ ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ ᴀᴅᴍɪɴ ꜰᴏʀ ᴀᴜᴛʜᴏʀɪᴢᴀᴛɪᴏɴ
-✧ ᴀᴅᴍɪɴ: @Mod_By_Kamal""")
+✧ ᴀᴅᴍɪɴ: <a href="https://t.me/approvedccm">𝐁𝐮𝐧𝐧𝐲</a>""")
 
     if not msg.reply_to_message:
         return bot.reply_to(msg, "✦━━━[ ᴡʀᴏɴɢ ᴜꜱᴀɢᴇ ]━━━✦\n\n"
